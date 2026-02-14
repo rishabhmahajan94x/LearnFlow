@@ -1,0 +1,27 @@
+.container {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+.button {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
