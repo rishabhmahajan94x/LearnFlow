@@ -1,0 +1,1 @@
+// API Configuration\nconst apiConfig = {\n    baseURL: 'https://api.example.com',\n    apiKey: 'YOUR_API_KEY_HERE',\n    timeout: 5000,\n};\n\nmodule.exports = apiConfig;
